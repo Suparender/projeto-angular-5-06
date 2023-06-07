@@ -29,7 +29,6 @@ export class HomeComponent implements OnInit {
     
     this.id = id
     console.log(id)
-    this.router.navigate
   }
 
 

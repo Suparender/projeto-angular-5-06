@@ -1,0 +1,30 @@
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.interna{
+    display: inline-block;
+}
+
+.interna p{
+    width: 700px;
+    margin-right: 40px;
+    display: flex;
+}
+
+.img{
+    top: 0%;
+    display: inline-block;;
+}
+
+.img img{
+    padding: 10px 10px;
+    margin-left: 50px;
+    margin-bottom: 40px;
+    width: 400px;
+    height: 300px;
+}
